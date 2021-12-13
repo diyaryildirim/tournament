@@ -1,0 +1,14 @@
+core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+[remote "origin"]
+        url = http://www.github.com/######/Random-Python-Tests
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+[user]
+        name = diyaryildiri
+        email = diyary2000@gmail.com
